@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Karam Timani and i'm a Junior Software Developer
+### Hi there 👋
+### My name is Karam Timani and i'm a Junior Software Developer
 
 - 🔭 I’m currently working on my Second Senior Project
 - 🌱 I’m currently learning React Native and MongoDB
