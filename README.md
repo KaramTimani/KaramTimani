@@ -2,7 +2,6 @@
 ### My name is Karam Timani and i'm a Junior Software Developer
 
 - 🔭 I’m currently working as a Technical Consultant
-- 🌱 I’m currently learning Nodejs,Express and MongoDB.
 - 🧠 Interested in problem solving
 - ⚡ I’m looking to collaborate on any project!
 - 📫 You can reach me via email: karamtimani9@gmail.com
