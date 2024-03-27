@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Karam Timani and i'm a Junior Software Developer
+### My name is Karam Timani and i'm a Software Developer
 
 - 🔭 I’m currently working as a Technical Consultant
 - 🧠 Interested in problem solving
