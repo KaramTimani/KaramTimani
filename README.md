@@ -1,8 +1,8 @@
 ### Hi there 👋
-### My name is Karam Timani and I'm a Software Developer
+### My name is Karam Timani, and I'm a Software Developer
 
-- 🔭 I’m currently working as a Technical Consultant
-- 🧠 Interested in problem solving
+- 🔭 I’m currently working as a Fintech Technical Consultant
+- 🧠 Interested in problem-solving
 - 📫 You can reach me via email: karamtimani9@gmail.com
 
 - ### Take your time and check out some of my Projects!
